@@ -1,22 +1,22 @@
 Programming Assignment 0 Writeup
 ====================
 
-My name: [your name here]
+My name: Rory Hofland
 
-My UTORID : [your utorid here]
+My UTORID : hofland1
 
-I collaborated with: [list utorids here]
+I collaborated with:
 
-I would like to credit/thank these classmates for their help: [list utorids here]
+I would like to credit/thank these classmates for their help:
 
-This programming assignment took me about [n] hours to do.
+This programming assignment took me about 3 hours to do.
 
-My public ip address output from webget was: [ip address here]
+My public ip address output from webget was: 142.189.242.129
 
-- Optional: I had unexpected difficulty with: [describe]
+- Optional: I had unexpected difficulty with: remembering how to use c++.
 
-- Optional: I think you could make this lab better by: [describe]
+- Optional: I think you could make this lab better by:
 
-- Optional: I was surprised by: [describe]
+- Optional: I was surprised by:
 
-- Optional: I'm not sure about: [describe]
+- Optional: I'm not sure about:
